@@ -1,0 +1,8 @@
+* What is this?
+This is a script to back up things. It is mostly a test to try out git and practice some python.
+
+The script makes a copy of files after every interval of time. To prevent having too many back ups, the 
+script will overwrite the first back up after reaching a limit. The time between intervals, and the limit 
+can be decided at the top of the script. While the script is running; you can ignore it and work on the 
+files it is backing up.
+
